@@ -1,0 +1,769 @@
+Sr.No,type,title,country,Time_Of_Acquisition,release_year,Genre,rating
+120,Movie,Harud,India,Jan-16,2010,Drama,6.5
+121,Movie,Umrika,India,Jan-16,2015,"Drama,Comedy",6.6
+637,Movie,1000 Rupee Note,India,Jan-16,2014,Drama,7.3
+638,Movie,Interrogation,India,Jan-16,2015,"Action,Thriller",4.9
+639,Movie,The Violin Player,India,Jan-16,2016,Drama,6.9
+442,Movie,X: Past Is Present,India,Jul-16,2015,Drama,5.3
+661,Movie,Dhanak,India,Aug-16,2015,Drama,7.9
+688,Movie,John & Jane,India,Aug-16,2005,Documentary,7.1
+132,Movie,Ludo,India,Nov-16,2015,Drama,7.6
+133,Movie,The Land of Cards,India,Nov-16,2012,Fantasy,4.5
+148,Movie,Mumbai Cha Raja,India,Nov-16,2012,Drama,6.5
+625,Movie,Famous in Ahmedabad,India,Dec-16,2015,Documentary,7.5
+23,Movie,Aakhri Adaalat,India,Jan-17,1988,Action,5.3
+24,Movie,Chadi Jawani Budhe Nu,India,Jan-17,1976,Rom-Com,4.1
+25,Movie,Ek Jaan Hain Hum,India,Jan-17,1983,Drama,6.4
+26,Movie,Khoon Khoon,India,Jan-17,1973,Action,5.2
+27,Movie,Lorai: Play to Live,India,Jan-17,2015,"Drama,Sport",7.3
+28,Movie,Manoranjan,India,Jan-17,1974,Comedy,6.9
+29,Movie,Mujrim,India,Jan-17,1989,Crime,5.5
+119,Movie,Wrong Side Raju,India,Jan-17,2016,"Drama,Thriller",7.9
+187,Movie,6-5=2,India,Jan-17,2014,"Thriller,Horror",5.9
+188,Movie,Bandie,India,Jan-17,1978,"Action,Drama",4.4
+189,Movie,Beiimaan Love,India,Jan-17,2016,"Drama,Romance",2.8
+190,Movie,Coffee with D,India,Jan-17,2017,Comedy,4.5
+191,Movie,Kacche Dhaagey,India,Jan-17,2016,Action,6
+192,Movie,Kis Kisko Pyaar Karoon,India,Jan-17,2015,Comedy,5.7
+193,Movie,One Heart: The A.R. Rahman Concert Film,India,Jan-17,2017,Documentary,8.6
+194,Movie,Rivaaz,India,Jan-17,2011,Drama,4.8
+195,Movie,Trip to Bhangarh: Asia's Most Haunted Place,India,Jan-17,2014,Horror,2.4
+196,Movie,Waarrior Savitri,India,Jan-17,2016,"Action,Drama",5.5
+197,Movie,Yaara O Dildaara,India,Jan-17,2011,Romance,5.6
+253,Movie,Abby Sen,India,Jan-17,2015,Drama,5.8
+254,Movie,Bittoo Boss,India,Jan-17,2012,Romance,4.1
+255,Movie,Bombay Talkies,India,Jan-17,2013,Drama,6.7
+256,Movie,Boss,India,Jan-17,2013,Action,5.1
+257,Movie,Budhia Singh: Born to Run,India,Jan-17,2016,"Drama,Sport",7.7
+258,Movie,Chaahat,India,Jan-17,1996,Drama,5.5
+259,Movie,Chashme Buddoor,India,Jan-17,2013,Comedy,5.4
+260,Movie,Dharam Sankat Mein,India,Jan-17,2015,Comedy,6.3
+261,Movie,Drishyam,India,Jan-17,2015,Thriller,8.2
+262,Movie,English Babu Desi Mem,India,Jan-17,1996,Comedy,4.7
+263,Movie,Fire in the Blood,India,Jan-17,2012,Documentary,7.7
+264,Movie,Gollu Aur Pappu,India,Jan-17,2014,Comedy,4.3
+265,Movie,Inkaar,India,Jan-17,2013,"Drama,Romance",6.1
+266,Movie,Loev,India,Jan-17,2015,Romance,5.8
+267,Movie,Mary Kom,India,Jan-17,2014,"Drama,Sport",6.8
+268,Movie,Moh Maya Money,India,Jan-17,2016,"Thriller,Crime",5.6
+269,Movie,Mumbai Delhi Mumbai,India,Jan-17,2014,Rom-Com,5.7
+270,Movie,Oh My God,India,Jan-17,2012,Fantasy,8.1
+271,Movie,One by Two,India,Jan-17,2014,Rom-Com,4.2
+272,Movie,Pyaar Ka Punchnama,India,Jan-17,2011,Rom-Com,7.7
+273,Movie,Pyaar Ka Punchnama 2,India,Jan-17,2015,Rom-Com,7.3
+274,Movie,Queen,India,Jan-17,2014,"Drama,Comedy",8.2
+275,Movie,Raja Hindustani,India,Jan-17,1996,"Drama,Romance",6.2
+276,Movie,Saeed Mirza: The Leftist Sufi,India,Jan-17,2016,Documentary,7.9
+277,Movie,Shaitan,India,Jan-17,2011,"Thriller,Crime",7.2
+278,Movie,Special 26,India,Jan-17,2013,Thriller,8
+279,Movie,Tanu Weds Manu,India,Jan-17,2011,"Drama,Romance",7.6
+280,Movie,What the Fish,India,Jan-17,2013,Comedy,5.1
+281,Movie,Yamla Pagla Deewana 2,India,Jan-17,2013,Comedy,3.4
+366,Movie,Nila,India,Jan-17,2016,"Drama,Romance",6.8
+367,Movie,Revelations,India,Jan-17,2016,"Thriller,Horror",4.8
+368,Movie,Ugly,India,Jan-17,2013,Thriller,8
+450,Movie,Pink,India,Jan-17,2016,"Drama,Thriller",8.1
+460,Movie,"Twisted Trunk, Big Fat Body",India,Jan-17,2015,Comedy,7
+488,Movie,An American in Madras,India,Jan-17,2013,Documentary,6.8
+489,Movie,Autohead,India,Jan-17,2016,Drama,5.9
+490,Movie,Radiopetti,India,Jan-17,2015,Drama,7.2
+491,Movie,Saheb Bibi Golaam,India,Jan-17,2016,"Action,Drama",6.5
+492,Movie,The Rat Race,India,Jan-17,2010,Documentary,6.5
+493,Movie,Udta Punjab,India,Jan-17,2016,"Action,Drama",7.8
+527,Movie,Dilwale,India,Jan-17,2015,Rom-Com,5.2
+528,Movie,Happy New Year,India,Jan-17,2014,"Action,Comedy",5
+529,Movie,Haraamkhor,India,Jan-17,2015,Drama,6.4
+530,Movie,Maroon,India,Jan-17,2016,Thriller,5
+635,Movie,Bhouri,India,Jan-17,2017,Drama,6.7
+636,Movie,Eh Janam Tumhare Lekhe,India,Jan-17,2015,Drama,8.6
+707,Movie,Anarkali of Aarah,India,Jan-17,2017,Drama,6.1
+756,TV Show,Badalte Rishton Ki Dastaan,India,Jan-17,2013,Drama,6
+757,Movie,Celluloid Man,India,Jan-17,2012,Documentary,7.9
+758,Movie,Elaan,India,Jan-17,1971,Thriller,6
+759,TV Show,Khelti Hai Zindagi Aankh Micholi,India,Jan-17,2013,Drama,6.2
+760,Movie,Killa,India,Jan-17,2014,Drama,7.9
+761,TV Show,Maharakshak: Aryan,India,Jan-17,2014,Thriller,5.8
+762,TV Show,Razia Sultan,India,Jan-17,2015,"Action,Documentary",5.7
+763,Movie,Salaakhen,India,Jan-17,1975,"Action,Drama",5.4
+764,Movie,The Human Factor: The Untold Story of the Bombay Film Orchestras,India,Jan-17,2013,Documentary,5.9
+495,Movie,Force 2,India,Feb-17,2016,"Action,Thriller",6.2
+499,Movie,Mirzya,India,Feb-17,2016,"Action,Drama",4.6
+502,Movie,Madaari,India,Feb-17,2016,"Drama,Thriller",7.6
+503,Movie,Rocky Handsome,India,Feb-17,2016,"Action,Thriller",6.8
+504,Movie,TE3N,India,Feb-17,2016,Thriller,7.3
+598,Movie,Jab Harry Met Sejal,India,Feb-17,2017,Rom-Com,5.3
+284,Movie,Colkatay Columbus,India,Mar-17,2016,"Drama,Comedy",4
+286,Movie,Blood Money,India,Mar-17,2012,"Action,Drama",5
+308,Movie,Asoka,India,Mar-17,2001,"Drama,Romance",6.5
+309,Movie,One 2 Ka 4,India,Mar-17,2001,Action,5.4
+310,Movie,Ottaal,India,Mar-17,2014,Drama,8.3
+766,TV Show,The House That Made Me,India,Mar-17,2015,Reality,5.7
+718,Movie,Dear Zindagi,India,Apr-17,2016,"Drama,Romance",7.6
+729,TV Show,Agent Raghav,India,Apr-17,2015,Crime,6.8
+730,TV Show,Bhaage Re Mann,India,Apr-17,2015,Drama,6.8
+731,TV Show,Gangs of Hassepur,India,Apr-17,2014,Comedy,NaN
+732,TV Show,Maharakshak Devi,India,Apr-17,2015,Thriller,6.1
+124,Movie,Mubarakan,India,May-17,2017,Comedy,5.5
+205,Movie,Rangoon,India,May-17,2017,"Action,Drama",5.6
+206,Movie,Raees,India,May-17,2017,Crime,6.8
+229,Movie,Chamatkar,India,May-17,1992,"Comedy,Fantasy",6.6
+230,TV Show,Classic Legends,India,May-17,2012,Biography,7.2
+231,Movie,Kabhi Haan Kabhi Naa,India,May-17,1994,"Drama,Romance",7.8
+232,Movie,Ram Jaane,India,May-17,1995,"Action,Drama",5.4
+372,Movie,The Wishing Tree,India,Jun-17,2017,"Drama,Fantasy",5.7
+378,Movie,Kaabil,India,Jun-17,2017,"Action,Thriller",7.1
+379,Movie,Dangal,India,Jun-17,2016,"Action,Sport",8.4
+385,Movie,Kanavu Variyam,India,Jun-17,2017,Drama,6.7
+390,Movie,Aashik Awara,India,Jun-17,1993,Romance,5.3
+391,TV Show,Fear Files... Har Mod Pe Darr,India,Jun-17,2015,Horror,5.2
+392,TV Show,Jhansi Ki Rani,India,Jun-17,2009,Drama,7.8
+393,Movie,Lens,India,Jun-17,2015,"Drama,Thriller",6.8
+394,Movie,Oh Darling Yeh Hai India,India,Jun-17,1995,Comedy,4.1
+395,Movie,Prince,India,Jun-17,1969,"Action,Thriller",4.2
+396,Movie,Qila,India,Jun-17,1998,Drama,5.2
+397,TV Show,The Golden Years with Javed Akhtar,India,Jun-17,2016,Drama,6.5
+445,Movie,Rustom,India,Jun-17,2016,"Drama,Thriller",7.1
+398,Movie,Motu Patlu: King of Kings,India,Jul-17,2016,Kid's,6.6
+406,Movie,Aditi Mittal: Things They Wouldn't Let Me Say,India,Jul-17,2017,Comedy,4.4
+410,Movie,Singh Saab the Great,India,Jul-17,2013,"Action,Drama",5.7
+411,Movie,Vitti Dandu,India,Jul-17,2014,Drama,7.2
+436,Movie,Amrapali,India,Jul-17,1966,"Drama,Musical",6.6
+437,Movie,Lal Patthar,India,Jul-17,1971,Romance,6.4
+438,Movie,Liar's Dice,India,Jul-17,2013,Drama,6.9
+439,Movie,Players,India,Jul-17,2012,"Action,Thriller",4.1
+440,Movie,Professor,India,Jul-17,1962,Drama,7.1
+441,Movie,Yaar Gaddar,India,Jul-17,1994,"Action,Drama",3.8
+642,Movie,Baahubali 2: The Conclusion (Hindi Version),India,Jul-17,2017,Action,8.2
+643,Movie,Baahubali: The Beginning (Hindi Version),India,Jul-17,2015,Action,8.1
+532,Movie,Delhi Belly,India,Aug-17,2011,"Action,Comedy",7.6
+533,Movie,Dhobi Ghat (Mumbai Diaries),India,Aug-17,2010,"Drama,Romance",7
+534,Movie,Jaal,India,Aug-17,1986,"Action,Drama",5.8
+535,Movie,Jaane Tu... Ya Jaane Na,India,Aug-17,2008,Rom-Com,7.5
+536,Movie,Lagaan,India,Aug-17,2001,"Drama,Sport",8.1
+537,Movie,Papa the Great,India,Aug-17,2000,"Drama,Comedy",5.4
+538,Movie,Peepli Live,India,Aug-17,2010,"Drama,Comedy",7.4
+539,Movie,Taare Zameen Par,India,Aug-17,2007,Drama,8.4
+709,Movie,Incomplete,India,Aug-17,2017,Drama,5.4
+37,Movie,Aashayein,India,Oct-17,2010,Drama,7.1
+38,Movie,Bhool Bhulaiyaa,India,Oct-17,2007,Drama,7.3
+39,Movie,Humko Deewana Kar Gaye,India,Oct-17,2006,Romance,5.2
+40,Movie,Kajraare,India,Oct-17,2010,Drama,2.8
+41,Movie,Karzzzz,India,Oct-17,2008,Romance,7.5
+42,Movie,Patiala House,India,Oct-17,2011,"Drama,Sport",5.6
+43,Movie,Ready,India,Oct-17,2011,Comedy,4.7
+48,Movie,Baadshaho,India,Oct-17,2017,Action,4.9
+49,Movie,Lucknow Central,India,Oct-17,2017,"Action,Drama",6.2
+53,Movie,A Scandall,India,Oct-17,2016,Thriller,3.1
+54,Movie,Aisa Yeh Jahaan,India,Oct-17,2015,Drama,6.6
+55,Movie,Ankur Arora Murder Case,India,Oct-17,2013,Thriller,6.5
+56,Movie,Calendar Girls,India,Oct-17,2015,Drama,4.2
+57,Movie,Darra,India,Oct-17,2016,Drama,5
+58,Movie,Gour Hari Dastaan: The Freedom File,India,Oct-17,2015,Drama,7.4
+59,Movie,Jal,India,Oct-17,2013,Drama,6.7
+60,Movie,Macchli Jal Ki Rani Hai,India,Oct-17,2014,Horror,2.4
+61,Movie,One Night Stand,India,Oct-17,2016,"Drama,Romance",3.1
+62,Movie,Story of an Egg,India,Oct-17,2017,Rom-Com,7.9
+63,Movie,Tamanchey,India,Oct-17,2014,"Action,Romance",4.5
+64,Movie,Teshan,India,Oct-17,2016,Rom-Com,5.2
+65,Movie,Ujala,India,Oct-17,1959,Drama,6.6
+66,Movie,Veerappan,India,Oct-17,2016,Drama,5.3
+233,Movie,Aiyyaa,India,Oct-17,2012,Rom-Com,4.4
+234,Movie,Bbuddah Hoga Terra Baap,India,Oct-17,2011,"Action,Thriller",5.6
+235,Movie,Gabbar Is Back,India,Oct-17,2015,"Action,Drama",7.1
+236,Movie,Madras Cafe,India,Oct-17,2013,Thriller,7.7
+237,Movie,Michael,India,Oct-17,2011,"Drama,Thriller",6.9
+130,Movie,Poster Boys,India,Nov-17,2017,Comedy,5.4
+136,Movie,Krish Trish and Baltiboy: Face Your Fears,India,Nov-17,2017,Kid's,3.4
+146,Movie,A Flying Jatt,India,Nov-17,2016,"Action,Fantasy",3.1
+147,Movie,Lucky: No Time for Love,India,Nov-17,2005,"Drama,Romance",4.7
+597,Movie,Madness in the Desert,India,Dec-17,2004,Documentary,8.7
+616,Movie,1920,India,Dec-17,2008,Horror,6.4
+617,Movie,Breaking Free,India,Dec-17,2015,Documentary,6.6
+618,Movie,Dark Chocolate (Bengali Version),India,Dec-17,2016,Thriller,4.3
+619,Movie,Gelo,India,Dec-17,2016,Drama,7
+620,Movie,Kabali (Hindi Version),India,Dec-17,2016,"Action,Crime",6.2
+621,Movie,Mantostaan,India,Dec-17,2017,Drama,6
+622,Movie,Mantra,India,Dec-17,2017,Drama,5.3
+623,Movie,Muramba,India,Dec-17,2017,"Drama,Romance",8
+624,Movie,Rise of the Zombie,India,Dec-17,2013,Horror,3.6
+19,Movie,Garbage,India,Jan-18,2018,Drama,3.4
+20,Movie,Hope Aur Hum,India,Jan-18,2018,Drama,6.2
+21,Movie,’???’???Kuch Bheege Alfaaz,India,Jan-18,2018,Drama,7.5
+22,Movie,Love and Shukla,India,Jan-18,2017,Drama,7.3
+73,Movie,25 Kille,India,Jan-18,2016,"Action,Drama",5.9
+74,Movie,Agyaat,India,Jan-18,2009,Horror,2.9
+75,Movie,Anjaan,India,Jan-18,2014,"Action,Thriller",5
+76,Movie,Bathinda Express,India,Jan-18,2016,"Drama,Sport",5.7
+77,Movie,Delhi 6,India,Jan-18,2009,Drama,6.1
+78,Movie,Dev.D,India,Jan-18,2009,"Drama,Romance",8
+79,Movie,Dil Vil Pyaar Vyaar,India,Jan-18,2014,"Drama,Musical",5.2
+80,Movie,Ek Main Aur Ekk Tu,India,Jan-18,2012,Rom-Com,5.7
+81,Movie,Haani,India,Jan-18,2013,Romance,7.1
+82,Movie,Happy Go Lucky,India,Jan-18,2014,Comedy,7
+83,Movie,Harishchandrachi Factory,India,Jan-18,2009,"Drama,Comedy",8.4
+84,Movie,Jagga Jasoos,India,Jan-18,2017,Action & Adventure ,6.5
+85,Movie,Jatt James Bond,India,Jan-18,2014,Comedy,6.7
+86,Movie,Jodhaa Akbar,India,Jan-18,2008,"Drama,Romance",7.6
+87,Movie,Judge Singh LLB,India,Jan-18,2015,Drama,7.4
+88,Movie,Kaminey,India,Jan-18,2009,"Action,Drama",7.4
+89,Movie,Khido Khundi,India,Jan-18,2018,"Drama,Sport",6.5
+90,Movie,Khoobsurat,India,Jan-18,2014,Romance,6.4
+91,Movie,Kisaan,India,Jan-18,2009,Drama,5.4
+92,Movie,Kismat Konnection,India,Jan-18,2008,"Romance,Musical",5.2
+93,Movie,Kurbaan,India,Jan-18,2009,Thriller,5.7
+94,Movie,Lock,India,Jan-18,2016,Thriller,6.1
+95,Movie,Luv Shuv Tey Chicken Khurana,India,Jan-18,2012,Comedy,6.6
+96,Movie,"Main, Meri Patni Aur Woh",India,Jan-18,2005,Drama,7.3
+97,Movie,Manje Bistre,India,Jan-18,2017,Rom-Com,6.6
+98,Movie,Motor Mitraan Di,India,Jan-18,2016,Comedy,6.1
+99,Movie,Mugamoodi,India,Jan-18,2012,"Action,Drama",4.9
+100,Movie,Muran,India,Jan-18,2011,"Action,Thriller",6.4
+101,Movie,My Friend Pinto,India,Jan-18,2011,Comedy,5.3
+102,Movie,Naan Sigappu Manithan,India,Jan-18,2014,"Action,Thriller",6.5
+103,Movie,Nasha,India,Jan-18,2013,Thriller,3.2
+104,Movie,Naughty Jatts,India,Jan-18,2013,Rom-Com,6.3
+105,Movie,Needhi Singh,India,Jan-18,2016,"Crime,Drama",6.2
+106,Movie,Phantom,India,Jan-18,2015,"Action,Thriller",5.9
+107,Movie,Pizza,India,Jan-18,2014,"Thriller,Horror",6.3
+108,Movie,Pooja Kiven Aa,India,Jan-18,2013,Comedy,5
+109,Movie,Race,India,Jan-18,2008,"Action,Thriller",6.7
+110,Movie,Race 2,India,Jan-18,2013,"Action,Thriller",5.3
+111,Movie,Saadey CM Saab,India,Jan-18,2015,Comedy,5.5
+112,Movie,Sat Shri Akaal England,India,Jan-18,2017,Rom-Com,5.3
+113,Movie,Thaandavam,India,Jan-18,2012,"Action,Thriller",6.1
+114,Movie,Theeya Velai Seyyanum Kumaru,India,Jan-18,2013,Comedy,6.1
+115,Movie,Udaan,India,Jan-18,2010,Drama,8.2
+116,Movie,Vettai,India,Jan-18,2012,Action,5.9
+117,Movie,Wake Up Sid,India,Jan-18,2009,Rom-Com,7.6
+118,Movie,What the Jatt!!,India,Jan-18,2015,Rom-Com,5.1
+150,Movie,A Wednesday,India,Jan-18,2008,Thriller,8.1
+151,Movie,Aagey Se Right,India,Jan-18,2009,Comedy,5.1
+152,Movie,Aamir,India,Jan-18,2008,Thriller,7.7
+153,Movie,ABCD 2,India,Jan-18,2015,"Drama,Musical",5.4
+154,Movie,ABCD: Any Body Can Dance,India,Jan-18,2013,Dance,6.3
+155,Movie,Arjun: The Warrior Prince,India,Jan-18,2011,Action,6.8
+156,Movie,Asees,India,Jan-18,2018,Drama,7.5
+157,Movie,Barfi!,India,Jan-18,2012,Romance,8.1
+158,Movie,Chaar??¨Sahibzaade,India,Jan-18,2014,Drama,4.5
+159,Movie,Chance Pe Dance,India,Jan-18,2009,Comedy,4.7
+160,Movie,Chup Chup Ke,India,Jan-18,2006,Rom-Com,6.8
+161,Movie,Dhoondte Reh Jaoge,India,Jan-18,2009,Comedy,5.6
+162,Movie,Do Dooni Chaar,India,Jan-18,2010,Comedy,7.6
+163,Movie,Gaddar: the Traitor,India,Jan-18,2015,Thriller,6.3
+164,Movie,Ghanchakkar,India,Jan-18,2013,"Thriller,Comedy",5.8
+165,Movie,Grandmaster,India,Jan-18,2012,Thriller,7
+166,Movie,Hattrick,India,Jan-18,2007,"Comedy,Sport",4.2
+167,Movie,Heroine,India,Jan-18,2012,Drama,5.1
+168,Movie,Himmatwala,India,Jan-18,2013,"Action,Comedy",1.7
+169,Movie,Husbands in Goa,India,Jan-18,2012,Rom-Com,3.7
+170,Movie,Jatts in Golmaal,India,Jan-18,2013,Comedy,6.2
+171,Movie,Kai Po Che!,India,Jan-18,2013,Drama,7.7
+172,Movie,Kalakalappu,India,Jan-18,2012,Comedy,6.9
+173,Movie,Katti Batti,India,Jan-18,2015,"Drama,Romance",4.9
+174,Movie,Life in a ... Metro,India,Jan-18,2007,"Drama,Romance",7.4
+175,Movie,Mumbai Meri Jaan,India,Jan-18,2008,Drama,7.7
+176,Movie,Mundeyan Ton Bachke Rahin,India,Jan-18,2014,Rom-Com,5.8
+177,Movie,No One Killed Jessica,India,Jan-18,2011,"Drama,Thriller",7.2
+178,Movie,Oye Lucky! Lucky Oye!,India,Jan-18,2008,Comedy,7.7
+179,Movie,Paan Singh Tomar,India,Jan-18,2010,Action,8.2
+180,Movie,Raja Natwarlal,India,Jan-18,2014,Thriller,6.1
+181,Movie,Satyagraha,India,Jan-18,2013,Drama,4.5
+182,Movie,Settai,India,Jan-18,2013,"Crime,Comedy",4.5
+183,Movie,Sigaram Thodu,India,Jan-18,2014,Thriller,6.2
+184,Movie,Welcome to Sajjanpur,India,Jan-18,2008,Comedy,6.9
+185,Movie,Yeh Hai Bakrapur,India,Jan-18,2014,Drama,3.7
+186,Movie,Zokkomon,India,Jan-18,2011,Action,4
+240,Movie,Abhinetri,India,Jan-18,2016,"Comedy,Horror",5.4
+241,Movie,Ajji,India,Jan-18,2017,Drama,6.9
+242,TV Show,Anjaan: Special Crimes Unit,India,Jan-18,2018,Horror,7.1
+243,Movie,CIA: Comrade in America,India,Jan-18,2017,"Action,Thriller",6.5
+244,Movie,Gurgaon,India,Jan-18,2017,"Thriller,Crime",6.6
+245,Movie,Hombanna,India,Jan-18,2017,Drama,8.3
+246,TV Show,Khan: No. 1 CrimeHunter,India,Jan-18,2018,Thriller,5.7
+247,Movie,Love Ni Bhavai,India,Jan-18,2017,Rom-Com,8.4
+248,Movie,Nibunan,India,Jan-18,2017,"Thriller,Crime",6.6
+249,Movie,Onaatah,India,Jan-18,2016,Romance,8.5
+250,Movie,Ringan,India,Jan-18,2015,Drama,8.1
+251,Movie,Sometimes,India,Jan-18,2016,"Drama,Comedy",7.2
+252,Movie,Waiting,India,Jan-18,2015,Drama,7.2
+313,Movie,Aitraaz,India,Jan-18,2004,Thriller,6.6
+314,Movie,Bachelor Girls,India,Jan-18,2016,Documentary,7.1
+315,Movie,Boom,India,Jan-18,2003,"Thriller,Crime",2.3
+316,Movie,Company,India,Jan-18,2002,"Action,Drama",8
+317,TV Show,Darr Sabko Lagta Hai,India,Jan-18,2015,Horror,6.2
+318,Movie,Dil Se,India,Jan-18,1998,"Drama,Romance",7.6
+319,Movie,Dum,India,Jan-18,2003,Rom-Com,7
+320,Movie,Grand Masti,India,Jan-18,2013,Rom-Com,4.3
+321,Movie,Guru,India,Jan-18,2007,Romance,7.7
+322,Movie,Hamara Dil Aapke Paas Hai,India,Jan-18,2000,Drama,5.6
+323,Movie,Haseena Maan Jaayegi,India,Jan-18,1999,Comedy,6.2
+324,Movie,Hide & Seek,India,Jan-18,2010,"Thriller,Horror",6
+325,Movie,Insan,India,Jan-18,2005,Drama,4.6
+326,Movie,Iqbal,India,Jan-18,2006,"Drama,Sport",8.1
+327,Movie,Ishqedarriyaan,India,Jan-18,2015,Romance,4.8
+328,Movie,Issaq,India,Jan-18,2013,"Drama,Romance",4.5
+329,Movie,Judwaa 2,India,Jan-18,2017,"Action,Comedy",3.8
+330,Movie,Kaakan,India,Jan-18,2015,Romance,8
+331,Movie,Kalki,India,Jan-18,2017,"Action,Crime",4.7
+332,Movie,Kanika,India,Jan-18,2017,Horror,4.6
+333,Movie,Khalnayak,India,Jan-18,1993,Action,7.2
+334,Movie,Khushi,India,Jan-18,2003,"Action,Comedy",4.4
+335,Movie,Kyun! Ho Gaya Na,India,Jan-18,2004,Romance,4.2
+336,Movie,Laal Rang,India,Jan-18,2016,"Thriller,Crime",8
+337,TV Show,Mahi Way,India,Jan-18,2010,Comedy,8
+338,Movie,No Entry,India,Jan-18,2005,Comedy,6.6
+339,Movie,Pardes,India,Jan-18,1997,Romance,7
+340,Movie,Pitaah,India,Jan-18,2002,Drama,6.4
+341,Movie,Pukar,India,Jan-18,2000,"Action,Drama",6.8
+342,Movie,Rahasya,India,Jan-18,2015,Thriller,7.6
+343,Movie,Run,India,Jan-18,2004,"Action,Romance",4.8
+344,Movie,Samarppanam,India,Jan-18,2017,Drama,5.9
+345,Movie,Shakti: The Power,India,Jan-18,2002,"Action,Drama",6
+346,Movie,Shanghai,India,Jan-18,2012,"Drama,Thriller",7.2
+347,Movie,Shararat,India,Jan-18,2002,"Drama,Comedy",4.6
+348,Movie,Shaurya: It Takes Courage to Make Right... Right,India,Jan-18,2008,Drama,7.3
+349,Movie,Shubh Aarambh,India,Jan-18,2017,Drama,6.9
+350,Movie,Solo,India,Jan-18,2017,"Drama,Romance",7.1
+351,Movie,Super Nani,India,Jan-18,2014,"Drama,Comedy",4.7
+352,Movie,Swades,India,Jan-18,2004,Drama,8.2
+353,Movie,Taal,India,Jan-18,1999,"Romance,Musical",6.7
+354,Movie,Teen Patti,India,Jan-18,2010,Thriller,4.1
+355,Movie,The Plan,India,Jan-18,2015,Thriller,7
+356,Movie,The Shaukeens,India,Jan-18,2014,Comedy,5
+357,Movie,The Silence,India,Jan-18,2017,Drama,7.4
+358,Movie,The Silence,India,Jan-18,2015,Drama,7.4
+359,Movie,Tope: The Bait,India,Jan-18,2016,Drama,5.6
+360,Movie,Trimurti,India,Jan-18,1995,Action,4.8
+361,Movie,Tu Hai Mera Sunday,India,Jan-18,2016,"Drama,Comedy",7.7
+362,Movie,Welcome 2 Karachi,India,Jan-18,2015,Comedy,4.3
+363,Movie,Y.M.I.: Yeh Mera India,India,Jan-18,2008,"Thriller,Crime",7.7
+364,Movie,Yaadein,India,Jan-18,2001,Romance,4.4
+365,Movie,Yuva,India,Jan-18,2004,"Crime,Drama",7.4
+457,Movie,Phir Se,India,Jan-18,2015,Romance,5.5
+458,Movie,Pyar Ke Do Pal,India,Jan-18,1986,Drama,6.2
+459,Movie,Urvi,India,Jan-18,2017,Drama,7
+469,Movie,Aajcha Divas Majha,India,Jan-18,2013,Drama,7.6
+470,Movie,Aata Pita,India,Jan-18,2010,Drama,5.9
+471,Movie,Badha,India,Jan-18,2006,Drama,7.5
+472,Movie,Devrai,India,Jan-18,2004,Drama,7.8
+473,Movie,Fandry,India,Jan-18,2014,"Drama,Romance",8.3
+474,Movie,Hridaynath,India,Jan-18,2012,"Action,Drama",5
+475,Movie,Hum Aapke Hain Koun,India,Jan-18,1994,Romance,7.5
+476,Movie,Hum Saath-Saath Hain,India,Jan-18,1999,Romance,6.2
+477,Movie,Ideachi Kalpana,India,Jan-18,2010,Comedy,5.9
+478,Movie,Jora 10 Numbaria,India,Jan-18,2017,Action,6.9
+479,Movie,Kay Dyache Bola,India,Jan-18,2005,Comedy,7.1
+480,Movie,Maine Pyar Kiya,India,Jan-18,1989,"Drama,Romance",7.3
+481,Movie,Maza Pati Karodpati,India,Jan-18,1988,Drama,7.2
+482,Movie,Mi Shivajiraje Bhosale Boltoy,India,Jan-18,2009,Drama,7.9
+483,Movie,Sanai Choughade,India,Jan-18,2008,Comedy,6.6
+484,Movie,Shahanpan Dega Deva,India,Jan-18,2011,Comedy,4.7
+485,Movie,The Damned Rain,India,Jan-18,2009,"Drama,Comedy",7.3
+486,Movie,Time Please,India,Jan-18,2013,Romance,7.1
+487,Movie,Yanda Kartavya Aahe,India,Jan-18,2006,Rom-Com,6.5
+632,TV Show,21 Sarfarosh: Saragarhi 1897,India,Jan-18,2018,"Action,Drama",8.3
+633,Movie,Chal Bhaag,India,Jan-18,2014,Comedy,4.3
+634,Movie,Power Paandi,India,Jan-18,2017,"Drama,Romance",7.5
+698,Movie,History of Joy,India,Jan-18,2017,Drama,5.3
+699,Movie,Lechmi,India,Jan-18,2017,Comedy,5
+700,Movie,Mahabharat,India,Jan-18,2013,Others,8.8
+701,Movie,Melle,India,Jan-18,2017,"Drama,Romance",6.3
+702,Movie,Minnaminugu the FireFly,India,Jan-18,2017,Drama,7.7
+703,Movie,Mythily Veendum Varunnu,India,Jan-18,2017,Horror,2.2
+704,Movie,P Se PM Tak,India,Jan-18,2015,Drama,4
+705,Movie,Sudani from Nigeria,India,Jan-18,2018,Comedy,8.2
+706,Movie,Tikli and Laxmi Bomb,India,Jan-18,2017,Drama,8.2
+739,Movie,A Billion Colour Story,India,Jan-18,2016,Drama,7.8
+740,Movie,Barsaat,India,Jan-18,1995,"Drama,Romance",3.8
+741,TV Show,Bh Se Bhade,India,Jan-18,2013,Comedy,5.5
+742,Movie,Billu,India,Jan-18,2009,"Drama,Comedy",6.2
+743,Movie,Dil Hai Tumhaara,India,Jan-18,2002,"Drama,Romance",5.3
+744,Movie,Ethirmarai,India,Jan-18,2018,"Thriller,Crime",4.9
+745,Movie,Kya Kehna,India,Jan-18,2000,"Drama,Romance",5.9
+746,Movie,Main Hoon Na,India,Jan-18,2004,"Action,Drama",7
+747,Movie,Mandobasar Galpo,India,Jan-18,2017,Drama,6
+748,Movie,Metro,India,Jan-18,2016,Crime,7.3
+749,Movie,Om Shanti Om,India,Jan-18,2007,Drama,6.7
+750,Movie,Paheli,India,Jan-18,2005,Romance,6.5
+751,Movie,Phir Bhi Dil Hai Hindustani,India,Jan-18,2000,Drama,6.2
+752,Movie,Prince,India,Jan-18,2010,"Action,Thriller",4.2
+753,TV Show,Ramayan,India,Jan-18,2012,Others,6.9
+754,Movie,Rukh,India,Jan-18,2017,Thriller,6.4
+755,Movie,Sairat,India,Jan-18,2016,"Drama,Romance",8.3
+514,Movie,Daagdi Chaawl,India,Feb-18,2015,"Action,Drama",6.2
+515,Movie,Fakta Ladh Mhana,India,Feb-18,2011,"Action,Drama",6.4
+516,Movie,Matichya Chuli,India,Feb-18,2006,"Drama,Comedy",6.8
+517,Movie,Morya,India,Feb-18,2011,Drama,7.2
+518,TV Show,Powder,India,Feb-18,2010,"Drama,Fantasy",6.6
+519,Movie,Premachi Goshta,India,Feb-18,2013,Romance,7.3
+520,Movie,Sakhi,India,Feb-18,2007,Drama,6.9
+521,Movie,Sarivar Sari,India,Feb-18,2005,Drama,7.2
+522,Movie,Tukaram,India,Feb-18,2012,Drama,7.2
+523,Movie,Zenda,India,Feb-18,2009,Drama,7
+524,Movie,Love Per Square Foot,India,Feb-18,2018,Rom-Com,7.2
+663,Movie,7 Khoon Maaf,India,Feb-18,2011,Thriller,6.1
+664,Movie,Chillar Party,India,Feb-18,2011,Comedy,7.4
+665,Movie,Fashion,India,Feb-18,2008,Drama,6.9
+666,Movie,Fitoor,India,Feb-18,2016,"Drama,Romance",5.4
+667,Movie,Fiza,India,Feb-18,2000,"Drama,Romance",6.1
+668,Movie,Guzaarish,India,Feb-18,2010,"Drama,Romance",7.4
+669,Movie,Haider,India,Feb-18,2014,"Crime,Drama",8.1
+670,Movie,Highway,India,Feb-18,2014,"Drama,Romance",7.6
+671,Movie,I Hate Luv Storys,India,Feb-18,2010,Rom-Com,5.6
+672,Movie,Joker,India,Feb-18,2012,Comedy,2.4
+673,Movie,Khosla Ka Ghosla,India,Feb-18,2006,Comedy,8.3
+674,Movie,Main aurr Mrs. Khanna,India,Feb-18,2009,Romance,3.5
+675,Movie,Mohenjo Daro,India,Feb-18,2016,"Action,Romance",5.7
+676,Movie,Raajneeti,India,Feb-18,2010,Drama,7.1
+677,Movie,Rang De Basanti,India,Feb-18,2006,"Drama,Comedy",8.2
+678,Movie,Rowdy Rathore,India,Feb-18,2012,Action,5.7
+679,Movie,Tamasha,India,Feb-18,2015,"Drama,Romance",7.3
+680,Movie,Tees Maar Khan,India,Feb-18,2010,Comedy,2.5
+681,Movie,Tere Naal Love Ho Gaya,India,Feb-18,2012,Romance,5.8
+682,Movie,Thank You,India,Feb-18,2011,Rom-Com,4.6
+683,Movie,The Blue Umbrella,India,Feb-18,2005,Drama,7.5
+283,TV Show,Th Eena Meena Deeka Chase Comedy Show,India,Mar-18,2015,Kid's,4.6
+288,Movie,Secret Superstar,India,Mar-18,2017,"Drama, Musical",7.9
+296,Movie,Bilu Rakkhosh,India,Mar-18,2017,"Drama,Fantasy",7
+297,Movie,Chal Dhar Pakad,India,Mar-18,2010,Drama,3.8
+298,Movie,Ek Cup Chya,India,Mar-18,2009,Drama,7.6
+299,Movie,Haapus,India,Mar-18,2010,Comedy,7
+300,Movie,Irada Pakka,India,Mar-18,2010,Drama,5.6
+301,TV Show,Khotey Sikkey,India,Mar-18,2011,Crime,5.1
+302,Movie,Lalbaug Parel: Zali Mumbai Sonyachi,India,Mar-18,2010,Drama,7.2
+303,Movie,Martyrs of Marriage,India,Mar-18,2016,Documentary,8.6
+304,Movie,Ranbhool,India,Mar-18,2010,Thriller,5.5
+305,TV Show,Rishta.com,India,Mar-18,2010,Comedy,8.5
+306,Movie,Satrangi Re,India,Mar-18,2012,"Drama,Musical",6.9
+307,Movie,Sthaniya Sambaad,India,Mar-18,2010,Drama,7.8
+714,Movie,Ittefaq,India,Mar-18,2017,Thriller,7.2
+644,Movie,2 States,India,Apr-18,2014,"Drama,Romance",6.9
+645,Movie,Baaghi,India,Apr-18,2016,"Action,Thriller",5.2
+646,Movie,Brij Mohan Amar Rahe,India,Apr-18,2018,"Drama,Comedy",6.8
+713,Movie,Running Shaadi,India,Apr-18,2017,Rom-Com,6.6
+123,Movie,Bucket List,India,May-18,2018,"Drama,Comedy",7.4
+208,Movie,Colours of Passion,India,May-18,2008,Drama,7
+212,Movie,Jalpari: The Desert Mermaid,India,May-18,2012,Drama,7.1
+218,Movie,ActionReplayy,India,May-18,2010,"Drama,Romance",4.2
+219,Movie,Andaz Apna Apna,India,May-18,1994,Rom-Com,8.2
+227,Movie,Aadu 2,India,May-18,2017,Comedy,7.1
+228,Movie,Aiyaary,India,May-18,2018,"Action,Thriller",5.3
+3,Movie,PK,India,Jun-18,2014,Comedy,8.1
+371,Movie,B.A. Pass,India,Jun-18,2013,Drama,6.4
+384,Movie,Lust Stories,India,Jun-18,2018,Drama,6.5
+388,Movie,B.A. Pass 2,India,Jun-18,2017,Drama,2.1
+389,Movie,Natsamrat - Asa Nat Hone Nahi,India,Jun-18,2016,Drama,9.1
+399,TV Show,Dharmakshetra,India,Jul-18,2014,Drama,8.3
+400,TV Show,Raja Rasoi Aur Anya Kahaniyan,India,Jul-18,2014,History,8.9
+401,TV Show,Stories by Rabindranath Tagore,India,Jul-18,2015,Drama,8.9
+403,Movie,Parmanu: The Story of Pokhran,India,Jul-18,2018,"Action,Drama",7.6
+409,Movie,Tahaan,India,Jul-18,2008,Drama,7.1
+413,Movie,Angamaly Diaries,India,Jul-18,2017,"Action,Thriller",8
+414,Movie,Anthony Kaun Hai?,India,Jul-18,2006,"Thriller,Comedy",5.2
+415,Movie,Cappuccino,India,Jul-18,2017,"Drama,Comedy",3.7
+416,Movie,Chalte Chalte,India,Jul-18,2003,"Drama,Romance",6.6
+417,Movie,Chicken Kokkachi,India,Jul-18,2017,Comedy,4.8
+418,Movie,Daffedar,India,Jul-18,2017,Drama,5.8
+419,Movie,Deewana Main Deewana,India,Jul-18,2013,"Drama,Comedy",2.4
+420,Movie,Gemini,India,Jul-18,2018,"Action,Thriller",6.1
+421,Movie,I Am Kalam,India,Jul-18,2010,"Drama,Comedy",8
+422,Movie,Kaviyude Osyath,India,Jul-18,2017,Drama,4.4
+423,Movie,Ma Chu Ka,India,Jul-18,2017,Thriller,5.9
+424,Movie,My Birthday Song,India,Jul-18,2018,Thriller,5.5
+425,Movie,Namastey London,India,Jul-18,2007,Rom-Com,7.1
+426,Movie,Paathi,India,Jul-18,2017,Drama,6.4
+427,Movie,Pareeth Pandaari,India,Jul-18,2017,Drama,6.8
+428,Movie,Paulettante Veedu,India,Jul-18,2016,Drama,3.2
+429,Movie,Paying Guests,India,Jul-18,2009,Comedy,4.2
+430,Movie,Sarvopari Palakkaran,India,Jul-18,2017,Drama,5
+431,Movie,Socha Na Tha,India,Jul-18,2005,Rom-Com,7.4
+432,Movie,Theeram,India,Jul-18,2017,"Drama,Romance",6.5
+433,Movie,Tum Milo Toh Sahi,India,Jul-18,2010,"Drama,Comedy",5.7
+434,Movie,Viswasapoorvam Mansoor,India,Jul-18,2017,Drama,6.1
+435,Movie,Zoo,India,Jul-18,2018,Drama,6.5
+282,Movie,Ladies First,India,Aug-18,2018,Sport,7.2
+647,Movie,Chennai Express,India,Aug-18,2013,"Action,Comedy",6
+648,TV Show,Yeh Meri Family,India,Aug-18,2018,Drama,9.2
+649,Movie,Naam Shabana,India,Aug-18,2017,"Action,Thriller",6.3
+650,Movie,Qarib Qarib Singlle,India,Aug-18,2017,Rom-Com,7.1
+651,Movie,Spyder,India,Aug-18,2017,"Action,Thriller",6.6
+652,TV Show,GHOUL,India,Aug-18,2018,Horror,7.1
+656,Movie,Bareilly Ki Barfi,India,Aug-18,2017,Rom-Com,7.5
+657,Movie,Mersal,India,Aug-18,2017,"Action,Thriller",7.6
+658,Movie,Mom,India,Aug-18,2017,"Drama,Thriller",7.3
+659,Movie,Pad Man,India,Aug-18,2018,"Drama,Comedy",7.9
+660,Movie,Toilet: Ek Prem Katha,India,Aug-18,2017,"Drama,Romance",7.2
+684,Movie,Bhavesh Joshi Superhero,India,Aug-18,2018,Action,7.6
+686,Movie,Bioscope,India,Aug-18,2015,Drama,5.8
+687,Movie,What's Your Raashee?,India,Aug-18,2009,Rom-Com,4.6
+12,Movie,Eeda,India,Sep-18,2018,"Drama,Romance",7.2
+13,Movie,’???Goli Soda 2,India,Sep-18,2018,Drama,7.3
+14,Movie,’???Maj Rati ’???’???Keteki,India,Sep-18,2017,Drama,7.1
+15,Movie,’???Mayurakshi,India,Sep-18,2017,Drama,7.1
+16,Movie,Red Oleanders Raktokarobi,India,Sep-18,2017,Drama,7
+17,Movie,Samantaral,India,Sep-18,2017,Drama,7.6
+444,Movie,The House Next Door,India,Sep-18,2017,"Drama,Horror",6.8
+32,Movie,My Brother ... Nikhil,India,Oct-18,2005,Drama,7.2
+33,Movie,Shorgul,India,Oct-18,2016,"Drama,Thriller",5.7
+34,Movie,Siddhant,India,Oct-18,2014,Drama,6.2
+35,Movie,W/O Ram,India,Oct-18,2018,Thriller,6.1
+36,Movie,Baahubali: The Beginning (English Version),India,Oct-18,2015,Action,8.1
+44,Movie,Naa Bangaaru Talli,India,Oct-18,2013,Drama,7.1
+47,Movie,Mr. Chandramouli,India,Oct-18,2018,Rom-Com,5.1
+50,TV Show,Devlok with Devdutt Pattanaik,India,Oct-18,2017,Mythology,7.9
+51,Movie,Meghnadbodh Rohoshyo,India,Oct-18,2017,Drama,6.4
+52,Movie,Sanju,India,Oct-18,2018,"Drama,Comedy",7.8
+67,Movie,Soorma,India,Oct-18,2018,"Drama,Sport",7.4
+127,Movie,Manto,India,Nov-18,2018,Drama,7.4
+128,Movie,Rajma Chawal,India,Nov-18,2018,"Drama,Comedy",5.8
+139,Movie,Aalorukkam,India,Nov-18,2018,Drama,6.6
+140,Movie,Halkaa,India,Nov-18,2018,Drama,7.2
+141,Movie,Mala Kahich Problem Nahi,India,Nov-18,2017,Drama,7.3
+142,Movie,Muzaffarnagar Baaqi Hai,India,Nov-18,2015,Documentary,6.8
+143,Movie,Odu Raja Odu,India,Nov-18,2018,Comedy,7.1
+144,Movie,Pimpal,India,Nov-18,2017,Drama,7.5
+145,Movie,Savita Damodar Paranjpe,India,Nov-18,2018,"Drama,Thriller",5.9
+594,Movie,Life Ki Toh Lag Gayi,India,Dec-18,2012,"Action,Comedy",5.4
+595,Movie,Rehmataan,India,Dec-18,2012,"Drama,Romance",NaN
+596,TV Show,Selection Day,India,Dec-18,2018,Sport,7.4
+599,Movie,Ascharyachakit!,India,Dec-18,2018,"Drama,Romance",4.9
+600,Movie,Lilli,India,Dec-18,2018,"Drama,Thriller",5.8
+601,Movie,Andhadhun,India,Dec-18,2018,"Crime,Comedy",8.3
+614,TV Show,Anjaan: Rural Myths,India,Dec-18,2018,Horror,6.1
+615,Movie,Vanjagar Ulagam,India,Dec-18,2018,"Crime,Drama",6.1
+68,TV Show,College Romance,India,Jan-19,2018,Rom-Com,9
+69,TV Show,Engineering Girls,India,Jan-19,2018,Comedy,7
+70,TV Show,Girls Hostel,India,Jan-19,2018,Comedy,8.2
+71,TV Show,Inmates,India,Jan-19,2017,Comedy,6.6
+72,Movie,Limitless,India,Jan-19,2017,Documentary,6.7
+149,Movie,Drive,India,Jan-19,2019,Action,3
+238,Movie,Kia and Cosmos,India,Jan-19,2018,Drama,6.8
+239,Movie,Sur Sapata,India,Jan-19,2019,"Drama,Comedy",7.6
+311,TV Show,Cricket Fever: Mumbai Indians,India,Jan-19,2019,Documentary,7.3
+312,Movie,Sarvam Thaala Mayam (Tamil Version),India,Jan-19,2018,"Drama,Musical",3.5
+446,Movie,Sat Sri Akal,India,Jan-19,2008,"Drama,Romance",5.8
+448,Movie,Bhasmasur,India,Jan-19,2017,Drama,7
+449,Movie,Nathicharami,India,Jan-19,2018,Drama,7.1
+452,Movie,Soni,India,Jan-19,2018,Drama,7.2
+454,Movie,Adhugo,India,Jan-19,2018,"Drama,Comedy",5.8
+455,Movie,Echcharikkai,India,Jan-19,2018,Thriller,6.4
+456,Movie,Pandigai,India,Jan-19,2017,"Action,Thriller",6.4
+461,Movie,Baazaar,India,Jan-19,2018,"Drama,Thriller",6.6
+466,Movie,Merku Thodarchi Malai,India,Jan-19,2018,"Drama,Romance",8.6
+467,Movie,Puriyatha Puthir,India,Jan-19,2017,Thriller,6.6
+468,Movie,Taramani,India,Jan-19,2017,"Drama,Thriller",7.5
+525,Movie,Guilty,India,Jan-19,2015,"Drama,Thriller",5.4
+526,Movie,Truckbhar Swapna,India,Jan-19,2018,Drama,6.1
+626,Movie,Baby Dolls,India,Jan-19,2019,"Drama,Comedy",7.2
+627,Movie,High End Yaariyan,India,Jan-19,2019,Drama,5.6
+628,Movie,Jindua,India,Jan-19,2017,Others,6.6
+629,Movie,Lakeeran,India,Jan-19,2016,Drama,6.3
+630,Movie,Qismat,India,Jan-19,2018,"Drama,Romance",8.4
+631,Movie,Thug Life,India,Jan-19,2017,Comedy,5.7
+691,Movie,3 Idiots,India,Jan-19,2009,"Drama,Comedy",8.4
+692,Movie,Darna Mana Hai,India,Jan-19,2003,Horror,6.3
+693,Movie,Ek Hasina Thi,India,Jan-19,2004,Thriller,7.5
+694,Movie,Ferrari Ki Sawaari,India,Jan-19,2012,Sport,6.4
+695,Movie,Manu,India,Jan-19,2018,"Drama,Thriller",7.9
+696,TV Show,Regiment Diaries,India,Jan-19,2018,Others,9
+697,Movie,Wazir,India,Jan-19,2016,Thriller,7.1
+735,Movie,706,India,Jan-19,2019,Thriller,5.3
+736,TV Show,Midnight Misadventures With Mallika Dua,India,Jan-19,2018,Comedy,3.1
+737,TV Show,The Calling,India,Jan-19,2018,Others,8
+738,Movie,The Legend of Michael Mishra,India,Jan-19,2016,Comedy,4.5
+767,TV Show,Sab Jholmaal Hai,India,Jan-19,2017,Kid's,5.3
+211,Movie,Laatu,India,Feb-19,2018,Drama,6.6
+291,Movie,Contract,India,Feb-19,2008,"Thriller,Crime",4.1
+292,Movie,Dear Dad,India,Feb-19,2016,Drama,6.3
+293,Movie,Sarkar,India,Feb-19,2018,"Action,Thriller",6.8
+294,Movie,War Chhod Na Yaar,India,Feb-19,2013,Comedy,5.5
+295,Movie,Zubaan,India,Feb-19,2015,Drama,6.1
+494,Movie,Evening Shadows,India,Feb-19,2018,Drama,7.1
+496,Movie,Life of An Outcast,India,Feb-19,2018,Drama,6.1
+497,Movie,Firebrand,India,Feb-19,2019,Drama,5.1
+498,Movie,Shonar Pahar,India,Feb-19,2018,Drama,8.1
+500,Movie,Manusangada,India,Feb-19,2017,Drama,7.9
+501,Movie,Genius,India,Feb-19,2018,"Action,Thriller",4.6
+505,Movie,Awe,India,Feb-19,2018,Thriller,7.8
+506,Movie,Ayana,India,Feb-19,2017,Drama,7.7
+507,Movie,Candyflip,India,Feb-19,2017,Fantasy,6.1
+508,Movie,Chameli,India,Feb-19,2004,Drama,7
+509,Movie,Fatso,India,Feb-19,2012,Romance,5.7
+510,Movie,Neevevaro,India,Feb-19,2018,"Drama,Romance",6.8
+511,Movie,Pyaar Ke Side Effects,India,Feb-19,2006,Rom-Com,6.7
+512,Movie,Sur: The Melody of Life,India,Feb-19,2002,"Drama,Musical",6.4
+513,Movie,Ugly Aur Pagli,India,Feb-19,2008,Comedy,3.7
+662,Movie,Uriyadi 2,India,Feb-19,2019,Thriller,7.2
+720,Movie,Ek Ladki Ko Dekha Toh Aisa Laga,India,Feb-19,2019,"Drama,Romance",5.5
+285,Movie,15-Aug,India,Mar-19,2019,Drama,5.8
+287,Movie,Sei,India,Mar-19,2018,"Thriller,Romance",4
+289,TV Show,Delhi Crime,India,Mar-19,2019,Drama,8.5
+290,Movie,Imago,India,Mar-19,2018,Drama,7
+4,Movie,Watchman,India,Apr-19,2019,Drama,8.1
+125,Movie,Oththa Seruppu Size 7,India,Apr-19,2019,"Drama,Thriller",8.6
+715,Movie,CRD,India,Apr-19,2016,"Drama,Romance",6.3
+716,Movie,Teen Aur Aadha,India,Apr-19,2018,Drama,6.7
+717,Movie,Njan Prakashan,India,Apr-19,2018,Drama,7.6
+719,Movie,Fireflies,India,Apr-19,2013,Drama,6.3
+721,Movie,Music Teacher,India,Apr-19,2019,Drama,6.3
+722,Movie,Bollywood Calling,India,Apr-19,2001,"Drama,Comedy",6.4
+723,Movie,Ek Khiladi Ek Haseena,India,Apr-19,2005,Thriller,5.7
+724,Movie,Jhankaar Beats,India,Apr-19,2003,Comedy,7.2
+725,Movie,Mumbai Matinee,India,Apr-19,2003,"Drama,Romance",5.2
+726,Movie,Rainbow Jelly,India,Apr-19,2018,Drama,7
+727,Movie,Shabd,India,Apr-19,2005,Drama,5.1
+728,Movie,Shortcut Safari,India,Apr-19,2016,Drama,6.7
+30,Movie,Noblemen,India,May-19,2019,Drama,5.8
+198,Movie,C Kkompany,India,May-19,2008,Comedy,5.4
+199,Movie,Chopsticks,India,May-19,2019,"Drama,Comedy",6.5
+200,Movie,Koi Aap Sa,India,May-19,2006,Romance,5.2
+201,Movie,Krishna Cottage,India,May-19,2004,Horror,5.1
+202,Movie,Mere Pyare Prime Minister,India,May-19,2019,"Drama,Comedy",6.8
+203,Movie,Ragini MMS,India,May-19,2011,"Drama,Horror",4.9
+204,Movie,Shor In the City,India,May-19,2011,"Crime,Drama",7.2
+207,TV Show,Thackeray,India,May-19,2019,Drama,5.2
+209,Movie,The Man Who Feels No Pain,India,May-19,2018,"Action,Comedy",7.4
+210,Movie,Zero,India,May-19,2018,Rom-Com,5.4
+213,Movie,Jonaki,India,May-19,2018,Drama,6.9
+214,Movie,Kyo Kii... Main Jhuth Nahin Bolta,India,May-19,2001,"Drama,Comedy",5.3
+215,Movie,"LSD: Love, Sex Aur Dhokha",India,May-19,2010,"Drama,Comedy",7.1
+216,Movie,Mission Istaanbul: Darr Ke Aagey Jeet Hai,India,May-19,2008,"Action,Drama",3.4
+217,Movie,Once Upon a Time in Mumbai Dobaara!,India,May-19,2013,"Action,Drama",4.6
+220,Movie,EMI: Liya Hai To Chukana Padega,India,May-19,2008,"Crime,Drama",4.2
+221,Movie,Hamid,India,May-19,2018,Drama,7.8
+222,Movie,Kucch To Hai,India,May-19,2003,"Thriller,Horror",4.2
+223,Movie,Kyaa Kool Hai Hum,India,May-19,2005,Comedy,6.1
+224,Movie,Kyaa Kool Hain Hum 3,India,May-19,2016,Comedy,1.9
+225,Movie,Once Upon a Time in Mumbaai,India,May-19,2010,Crime,7.4
+226,Movie,Shootout at Lokhandwala,India,May-19,2007,"Action,Crime",7.1
+711,Movie,Lupt,India,May-19,2018,Horror,6.8
+712,Movie,Petta,India,May-19,2019,"Action,Drama",7.2
+1,Movie,Article 15,India,Jun-19,2019,Crime,8.2
+2,Movie,Ee Nagaraniki Emaindi,India,Jun-19,2018,Comedy,7.9
+369,Movie,Luka Chuppi,India,Jun-19,2019,Rom-Com,6.3
+370,Movie,Stree,India,Jun-19,2018,"Comedy,Horror",7.6
+373,Movie,Romeo Akbar Walter,India,Jun-19,2019,"Action,Thriller",6.5
+374,Movie,Super Deluxe,India,Jun-19,2019,"Drama,Comedy",8.3
+375,Movie,Kahaani,India,Jun-19,2012,Thriller,8.1
+376,Movie,Unbroken,India,Jun-19,2019,Documentary,7.2
+377,Movie,Tottaa Pataaka Item Maal,India,Jun-19,2018,Drama,8
+380,Movie,Rakkhosh,India,Jun-19,2019,"Drama,Horror",4.8
+381,Movie,Krutant,India,Jun-19,2019,Drama,6.3
+382,Movie,Luckee,India,Jun-19,2019,"Drama,Comedy",4.4
+383,Movie,Pihu,India,Jun-19,2018,"Drama,Thriller",6.7
+386,TV Show,Leila,India,Jun-19,2019,Drama,4.7
+387,Movie,III Smoking Barrels,India,Jun-19,2017,Drama,6.6
+122,Movie,U Turn,India,Jul-19,2016,Thriller,7
+402,TV Show,7 (Seven),India,Jul-19,2019,Action,7.5
+404,Movie,Bewafaa,India,Jul-19,2005,"Romance,Musical",4.3
+405,TV Show,Typewriter,India,Jul-19,2019,"Thriller,Horror",6.5
+407,Movie,Mauli,India,Jul-19,2018,"Action,Drama",5.8
+408,Movie,Bogda,India,Jul-19,2018,Drama,7.3
+412,TV Show,Chhota Bheem,India,Jul-19,2019,Kid's,4.3
+641,Movie,Badla,India,Jul-19,2019,"Drama,Thriller",7.8
+710,Movie,Petta (Telugu Version),India,Jul-19,2019,"Action,Drama",7.2
+531,Movie,Saaho,India,Aug-19,2019,"Action,Thriller",5.2
+653,Movie,Kaake Da Viyah,India,Aug-19,2019,Comedy,5.1
+654,Movie,Marriage Palace,India,Aug-19,2018,Comedy,6.2
+655,Movie,Saavat,India,Aug-19,2019,"Drama,Thriller",6.7
+685,Movie,Chhota Bheem Kungfu Dhamaka,India,Aug-19,2019,Kid's,6.5
+689,Movie,Uyare,India,Aug-19,2019,Drama,8
+690,Movie,90 ML,India,Aug-19,2019,"Drama,Comedy",3.3
+708,Movie,Sarvam Thaala Mayam (Telugu Version),India,Aug-19,2018,Drama,7.6
+5,TV Show,Bard of Blood,India,Sep-19,2019,Spy,7
+6,Movie,Malaal,India,Sep-19,2019,Romance,5.8
+7,Movie,Oh! Baby (Malayalam),India,Sep-19,2019,Comedy,7.4
+8,Movie,Oh! Baby (Tamil),India,Sep-19,2019,Comedy,7.4
+9,Movie,Manmadhudu 2,India,Sep-19,2019,Drama,4.8
+10,Movie,Do Paise Ki Dhoop Chaar Aane Ki Baarish,India,Sep-19,2009,Spy,6.3
+11,Movie,Kabir Singh,India,Sep-19,2019,Drama,7.1
+18,Movie,Oh! Baby,India,Sep-19,2019,Comedy,7.4
+443,Movie,Next Enti?,India,Sep-19,2018,Rom-Com,4.5
+640,Movie,Jaoon Kahan Bata Ae Dil,India,Sep-19,2018,"Drama,Romance",6
+765,TV Show,Little Things,India,Sep-19,2019,Others,8.2
+31,Movie,Mehandi Circus,India,Oct-19,2019,"Drama,Romance",7.4
+45,TV Show,Mighty Little Bheem: Diwali,India,Oct-19,2019,Kid's,6.4
+46,Movie,Upstarts,India,Oct-19,2019,"Drama,Comedy",6.7
+126,Movie,The Zoya Factor,India,Nov-19,2019,"Drama,Comedy",4.2
+129,Movie,Evvarikee Cheppoddu,India,Nov-19,2019,"Drama,Romance",7.2
+131,Movie,Pranaam,India,Nov-19,2019,Drama,4.4
+134,Movie,Dorasaani,India,Nov-19,2019,"Drama,Romance",5.8
+135,Movie,Mallesham,India,Nov-19,2019,Drama,8.5
+137,Movie,Guna 369,India,Nov-19,2019,"Action,Drama",6.2
+138,Movie,House Arrest,India,Nov-19,2019,Comedy,5.5
+540,Movie,Aarakshan,India,Dec-19,2011,Drama,6.2
+541,Movie,Adrishya,India,Dec-19,2017,"Drama,Horror",5.3
+542,Movie,Ahista Ahista,India,Dec-19,2006,"Drama,Romance",7
+543,Movie,Albert Pinto Ko Gussa Kyun Aata Hai?,India,Dec-19,2019,Drama,7.5
+544,Movie,Amar Akbar Anthony,India,Dec-19,1977,"Action,Comedy",7.5
+545,Movie,Anwar,India,Dec-19,2007,Drama,6.7
+546,Movie,Barah Aana,India,Dec-19,2009,"Drama,Comedy",6.8
+547,Movie,Bawarchi,India,Dec-19,1972,"Drama,Comedy",8
+548,Movie,Bazaar,India,Dec-19,1982,Drama,6.6
+549,Movie,Bhagam Bhag,India,Dec-19,2006,"Thriller,Comedy",6.4
+550,Movie,Bhoot,India,Dec-19,2003,Horror,6.5
+551,Movie,Bobby,India,Dec-19,1973,"Drama,Romance",7.1
+552,Movie,Chal Mere Bhai,India,Dec-19,2000,Rom-Com,4.7
+553,Movie,Chupke Chupke,India,Dec-19,1975,"Drama,Comedy",8.3
+554,Movie,Deadline: Sirf 24 Ghante,India,Dec-19,2006,Thriller,6.3
+555,Movie,Dhamaal,India,Dec-19,2007,Comedy,7.3
+556,Movie,Don,India,Dec-19,1978,"Action,Thriller",7.8
+557,Movie,Encounter: The Killing,India,Dec-19,2002,Crime,6.4
+558,Movie,Ghayal,India,Dec-19,1990,"Action,Drama",7.6
+559,Movie,Ghulam-E-Musthafa,India,Dec-19,1997,"Action,Crime",6.7
+560,Movie,Gol Maal,India,Dec-19,1979,Comedy,8.6
+561,Movie,Golmaal: Fun Unlimited,India,Dec-19,2006,Comedy,7.4
+562,Movie,Hera Pheri,India,Dec-19,1976,"Action,Comedy",8.2
+563,Movie,Jaan-E-Mann: Let's Fall in Love... Again,India,Dec-19,2006,"Drama,Musical",6
+564,Movie,Jail,India,Dec-19,2009,Drama,6.2
+565,Movie,John Day,India,Dec-19,2013,Thriller,5.6
+566,Movie,Judwaa,India,Dec-19,1997,Rom-Com,6
+567,Movie,Kaalia,India,Dec-19,1981,Action,6.8
+568,Movie,Katha,India,Dec-19,1982,"Drama,Comedy",7.8
+569,Movie,Khubsoorat,India,Dec-19,1980,"Drama,Comedy",7.6
+570,Movie,Koshish,India,Dec-19,1972,Drama,8.6
+571,Movie,Kuldip Patwal: I Didn't Do It!,India,Dec-19,2017,Drama,6.7
+572,Movie,Maine Pyaar Kyun Kiya,India,Dec-19,2005,Rom-Com,5.5
+573,Movie,Masoom,India,Dec-19,1983,Drama,8.4
+574,Movie,Mujhse Shaadi Karogi,India,Dec-19,2004,Rom-Com,6.7
+575,Movie,Namak Halaal,India,Dec-19,1982,"Action,Comedy",7.3
+576,Movie,Phullu,India,Dec-19,2017,"Drama,Comedy",6
+577,Movie,Rajnigandha,India,Dec-19,1974,"Drama,Romance",7.3
+578,Movie,Ram Teri Ganga Maili,India,Dec-19,1985,"Drama,Romance",6.7
+579,Movie,Ramji Londonwaley,India,Dec-19,2005,"Drama,Comedy",6.7
+580,Movie,Road to Sangam,India,Dec-19,2010,"Drama,Thriller",7.4
+581,Movie,Saath Saath,India,Dec-19,1982,Drama,7.1
+582,Movie,Sadma,India,Dec-19,1983,Romance,8.4
+583,Movie,Sangam,India,Dec-19,1964,"Drama,Romance",7.5
+584,Movie,Satte Pe Satta,India,Dec-19,1982,"Action,Comedy",7.2
+585,Movie,Shiva,India,Dec-19,1990,"Action,Drama",8.1
+586,Movie,Swami,India,Dec-19,1977,Drama,6.6
+587,Movie,The Dark Side of Life: Mumbai City,India,Dec-19,2018,Drama,6.1
+588,Movie,The Great Gambler,India,Dec-19,1979,"Action,Crime",6.5
+589,Movie,Traffic Signal,India,Dec-19,2007,Drama,6.5
+590,Movie,"Trikal (Past, Present, Future)",India,Dec-19,1985,Drama,7
+591,Movie,Veerey Ki Wedding,India,Dec-19,2018,Comedy,3.2
+592,Movie,Vodka Diaries,India,Dec-19,2018,Thriller,5.6
+593,Movie,Zed Plus,India,Dec-19,2014,Comedy,6.4
+602,Movie,Bangistan,India,Dec-19,2015,Comedy,4.6
+603,Movie,Dil Chahta Hai,India,Dec-19,2001,"Drama,Romance",8.1
+604,Movie,Dil Dhadakne Do,India,Dec-19,2015,"Drama,Romance",6.9
+605,Movie,Don,India,Dec-19,2006,"Action,Crime",7.2
+606,Movie,Game,India,Dec-19,2011,"Action,Crime",5.2
+607,Movie,Honeymoon Travels Pvt. Ltd.,India,Dec-19,2007,"Drama,Comedy",6.1
+608,Movie,Karthik Calling Karthik,India,Dec-19,2010,"Drama,Thriller",7
+609,Movie,Lakshya,India,Dec-19,2004,"Drama,Others",7.9
+610,Movie,Luck by Chance,India,Dec-19,2009,"Drama,Others",7
+611,Movie,Rock On!!,India,Dec-19,2008,"Drama,Others",7.7
+612,Movie,Talaash,India,Dec-19,2012,Thriller,7.2
+613,Movie,Zindagi Na Milegi Dobara,India,Dec-19,2011,"Drama,Romance",8.1
+733,Movie,Azhar,India,Dec-19,2016,Sport,5.8
+734,Movie,HorrorStory,India,Dec-19,2013,Horror,4.2
+453,Movie,Bulbul Can Sing,India,Jan-20,2018,Drama,6.8
+464,Movie,Ghost Stories,India,Jan-20,2020,Horror,4.3
+465,Movie,Mandi,India,Jan-20,1983,Drama,7.6
+451,Movie,Half Girlfriend,India,Feb-20,2017,"Drama,Romance",4.4
+447,Movie,Deewangee,India,Mar-20,2002,Thriller,6.6
+463,TV Show,Jamtara - Sabka Number Ayega,India,Oct-20,2020,Crime,7.3
+462,Movie,Made in China,India,Dec-20,2019,Drama,6.2
+768,TV Show,Pyaar Tune Kya Kiya,India, Jun-17,2014,Drama,6.9
